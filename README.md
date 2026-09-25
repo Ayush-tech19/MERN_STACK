@@ -78,3 +78,12 @@ Authentication
 MERN Stack
   ↓
 Advanced Full-Stack Projects 🚀
+
+📂 Repository Structure
+MERN_STACK/
+│
+├── HTML_portfolio/
+├── CSS-CARD-PROJECT/
+├── Camera-webPage/
+│
+└── ...more projects coming soon 🚀
