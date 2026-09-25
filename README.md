@@ -46,7 +46,7 @@ A basic project focused on CSS styling, layouts, cards, and visual design.
 
 ---
 
-### 03. 📷 Camera Web Page
+### 03. 📷 Camera Web Page(Not responsive)
 A frontend project created while practicing HTML and CSS layouts and styling.
 
 🔗 **Live Demo:**  
