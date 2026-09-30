@@ -54,6 +54,14 @@ A frontend project created while practicing HTML and CSS layouts and styling.
 
 ---
 
+### 04. 🐾 adoptme.com
+A frontend project using HTML5 and CSS.
+
+🔗 **Live Demo:** 
+[View Project](https://ayush-tech19.github.io/MERN_STACK/CSS-mini-project/index.html)
+
+---
+
 ## 📈 Learning Roadmap
 
 ```text
