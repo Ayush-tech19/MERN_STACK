@@ -62,8 +62,8 @@ A frontend project using HTML5 and CSS.
 
 ---
 
-### 04. 🐾 adoptme.com
-A frontend project using HTML5 and CSS.
+### 04. 🎴Bootstrap Card project
+A frontend project using Bootstrap
 
 🔗 **Live Demo:** 
 [View Project](https://ayush-tech19.github.io/MERN_STACK/Bootstrap-project/index.html)
