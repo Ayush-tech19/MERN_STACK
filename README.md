@@ -70,6 +70,15 @@ A frontend project using Bootstrap
 
 ---
 
+
+### 05. 🎧Spotify Clone
+A small try to clone Spotify Using HTML5 & CSS
+
+🔗 **Live Demo:**  
+[View Project](https://ayush-tech19.github.io/MERN_STACK/SpotifyClone/index.html)
+
+---
+
 ## 📈 Learning Roadmap
 
 ```text
